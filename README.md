@@ -86,4 +86,4 @@ docker build -t lampy-single .
 
 ## License
 
-Public domain — see [UNLICENSE](UNLICENSE).
+Public domain ([The Unlicense](https://unlicense.org)).
